@@ -1,3 +1,3 @@
-# This is a major update v2
+# Lint pipeline test
 # EE471 Week 12 CI/CD
 
