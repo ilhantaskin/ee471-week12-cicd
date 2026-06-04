@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v1.1.0...v1.2.0) (2026-06-04)
+
+
+### Bug Fixes
+
+* Readme file changed fix. ([bad1a78](https://github.com/ilhantaskin/ee471-week12-cicd/commit/bad1a78d6a0cdf491ae583bf5af58c0e51e7d3e6))
+
+
+### Features
+
+* Readme file changed feature. ([5e5e5c9](https://github.com/ilhantaskin/ee471-week12-cicd/commit/5e5e5c929a398ec29ccc6e7a92c22edef6514970))
+
 # [1.1.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v1.0.0...v1.1.0) (2026-06-04)
 
 
