@@ -1,4 +1,3 @@
-# This is a major update
-# This is a feature update
+# This is a bug fix v2
 # EE471 Week 12 CI/CD
 
