@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v2.1.1...v2.1.2) (2026-06-04)
+
+
+### Bug Fixes
+
+* add test comment to models ([a20733b](https://github.com/ilhantaskin/ee471-week12-cicd/commit/a20733b6cec5e4f2993777d9324e6983e8f8e46e))
+
 ## [2.1.1](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v2.1.0...v2.1.1) (2026-06-04)
 
 
