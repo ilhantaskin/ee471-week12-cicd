@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v1.2.0...v2.0.0) (2026-06-04)
+
+
+* Merge pull request [#3](https://github.com/ilhantaskin/ee471-week12-cicd/issues/3) from ilhantaskin/break/readme-file-changed ([3d0d3c8](https://github.com/ilhantaskin/ee471-week12-cicd/commit/3d0d3c815054356de6eb160e529ec83608d219da))
+
+
+### BREAKING CHANGES
+
+* Readme file changed major.
+
 # [1.2.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v1.1.0...v1.2.0) (2026-06-04)
 
 
