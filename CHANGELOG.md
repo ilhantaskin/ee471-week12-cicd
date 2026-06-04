@@ -1,3 +1,11 @@
+## [2.1.1](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v2.1.0...v2.1.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* format all files with ruff ([1bf2fab](https://github.com/ilhantaskin/ee471-week12-cicd/commit/1bf2fab0317177519dc2cfebe280e0714f3b17a3))
+* remove unused HttpResponse import ([6ffd3a5](https://github.com/ilhantaskin/ee471-week12-cicd/commit/6ffd3a5f3813b10623ed266408a2adce15043b1e))
+
 # [2.1.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v2.0.1...v2.1.0) (2026-06-04)
 
 
