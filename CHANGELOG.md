@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/ilhantaskin/ee471-week12-cicd/compare/v1.0.0...v1.1.0) (2026-06-04)
+
+
+### Bug Fixes
+
+* Readme file changed fix. ([4823da2](https://github.com/ilhantaskin/ee471-week12-cicd/commit/4823da2d2dc296aa262c3e34cf0b1e4a018b1d5c))
+
+
+### Features
+
+* add semantic versioning pipeline ([94ccf36](https://github.com/ilhantaskin/ee471-week12-cicd/commit/94ccf36f64f47c8cb3cb9136c19b95b9f9738617))
+
 # 1.0.0 (2026-06-04)
 
 
